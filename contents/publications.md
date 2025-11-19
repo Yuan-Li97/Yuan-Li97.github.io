@@ -1,12 +1,9 @@
-1. X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and [Q. Niu](https://doi.org/10.1016/j.ijrmms.2024.105888) (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+1. "Present Bias: Understanding Zero Leverage Policy and Unstable Capital Structure," **Yuan Li**, Tak-Yuen Wong and Siqi Zhao, *Journal of Mathematical Economics*, 2025, 103148. (SSCI, 国际经济学二类)
 
-    123
+2. "Present-Biased Government and Sovereign Debt Dynamics," **Yuan Li**, Jinqiang Yang and Siqi Zhao, *Journal of Mathematical Economics*, 2022, 98, 102579. (SSCI, 国际经济学二类)
 
-2. <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503)
+3. "Present-Biased Heterogeneity, Marginal Propensity to Consume, and Wealth Distribution," **Yuan Li**, Jinqiang Yang and Siqi Zhao, *Macroeconomic Dynamics*, 2025, 29, e63. (SSCI, 国际经济学二类)
 
-3. A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+4. "Commitment, Agency Costs and Dynamic Capital Structure," **Yuan Li**, Jinqiang Yang and Siqi Zhao, *The European Journal of Finance*, 2022, 28, 1708-1727. (SSCI, ABS 三星)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+5. “全国碳市场的碳排放权配额管理机制设计—基于碳交易和风险对冲的视角”，赵思琦，刘庆富，杨金强，**李源**，2023，*金融研究*, (12), 74-93. (中文核心期刊)
