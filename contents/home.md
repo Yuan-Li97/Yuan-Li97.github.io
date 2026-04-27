@@ -8,7 +8,7 @@ Email: yuanli4911[at]163.com
 
 #### Curriculum Vitae
 
-[PDF](../cv.pdf)
+[PDF](../CV.pdf)
 
 #### Research Interests
 - Green Finance
