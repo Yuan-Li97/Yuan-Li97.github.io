@@ -4,7 +4,7 @@ Shanghai University of Finance and Economics
 
 #### Contact
 
-Email: luoah5292[at]gmail.com
+Email: luoah5292@gmail.com
 
 #### Curriculum Vitae
 
