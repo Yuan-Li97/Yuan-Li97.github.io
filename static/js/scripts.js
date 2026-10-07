@@ -39,7 +39,7 @@ window.addEventListener('DOMContentLoaded', event => {
                 try {
                     document.getElementById(key).innerHTML = yml[key];
                 } catch {
-                    console.log("Unknown id and value: " + key + "," + yml[key].toString())
+                    console.log("Unknown id and value: " + key + "," + String(yml[key]))
                 }
 
             })
