@@ -1,16 +1,10 @@
-School of Finance
-
-Shanghai University of Finance and Economics
-
-#### Contact
+School of Finance, Shanghai University of Finance and Economics
 
 Email: luoah5292@gmail.com
 
-#### Curriculum Vitae
+Curriculum Vitae: [PDF](../CV.pdf)
 
-[PDF](../CV.pdf)
-
-#### Research Interests
+Research Interests:
 
 - Green Finance
 - Asset Pricing
